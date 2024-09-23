@@ -1,5 +1,6 @@
 # xfq5
 
-stock info realtime
+haha, sorry, here is null.
 
-一个简单的小程序，用来实时显示中国A股的股票信息。
+
+哈哈，对不起，这里是空的。
